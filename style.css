@@ -1,6 +1,6 @@
 *{
     margin:0;
-    padding:0; /* fixed typo */
+    padding:0; 
     font-family: Segoe UI;
     box-sizing: border-box;
 }
@@ -83,7 +83,7 @@ nav a{
 }
 
 .sauces-table tr:nth-child(odd){
-    background: #fff7e6; /* light orange tint */
+    background: #fff7e6; 
 }
 
 .sauces-table tr:nth-child(even){
