@@ -67,6 +67,7 @@ nav a{
 
 #logo{
     width:100%;
+    position:fixed;
 }
 
 .sauces-table{
