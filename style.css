@@ -96,10 +96,11 @@ nav a{
 
 
 .extra-table {
-    width: 300px;        
+    width: 50%;        
     margin: 20px auto;   
     border-collapse: collapse;
     text-align: center;
+    position:center;
 }
 
 .extra-table th,
