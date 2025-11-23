@@ -65,12 +65,11 @@ nav a{
     margin-top:60px;
 }
 
-#banner{
+.banner img {
     width:100px;
-  height:100px;
-    object-fit:cover;
-    
-    position:fixed;}
+  height: auto;
+    display: block;
+    }
 
 
 
