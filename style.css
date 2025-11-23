@@ -71,7 +71,11 @@ nav a{
     object-fit: cover;
     }
 
-
+.button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
 
 
 .sauces-table{
