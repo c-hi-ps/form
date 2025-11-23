@@ -65,10 +65,10 @@ nav a{
     margin-top:60px;
 }
 
-#logo{
+#banner{
     width:100%;
-    position:fixed;
-}
+  height:100%;}
+
 
 .sauces-table{
     margin:18px auto;
@@ -90,3 +90,4 @@ nav a{
 .sauces-table tr:nth-child(even){
     background: #ffe7c2;
 }
+
