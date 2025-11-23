@@ -66,9 +66,9 @@ nav a{
 }
 
 .banner img {
-    width:100px;
-  height: auto;
-    display: block;
+    width:100%;
+  height: 300px ;
+    object-fit: cover;
     }
 
 
