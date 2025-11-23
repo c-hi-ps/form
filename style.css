@@ -92,6 +92,25 @@ nav a{
     background:white;
 }
 
+
+.extras-table {
+    width: 300px;        
+    margin: 20px auto;   
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.extras-table th,
+.extras-table td {
+    border: 1px solid #333;
+    padding: 8px 12px;
+}
+
+section,
+table {
+    margin-bottom: 40px;   
+}
+
 .sauces-table tr:nth-child(odd){
     background: #fff7e6; 
 }
