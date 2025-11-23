@@ -93,15 +93,15 @@ nav a{
 }
 
 
-.extras-table {
+.extra-table {
     width: 300px;        
     margin: 20px auto;   
     border-collapse: collapse;
     text-align: center;
 }
 
-.extras-table th,
-.extras-table td {
+.extra-table th,
+.extra-table td {
     border: 1px solid #333;
     padding: 8px 12px;
 }
